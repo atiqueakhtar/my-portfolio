@@ -34,7 +34,7 @@ body{
 }
 .header img{
     display: block;
-    max-width: 35rem;
+    max-width: 30rem;
     margin: auto;
 }
 .header-heading{
@@ -83,5 +83,9 @@ body{
     list-style: none;
 }
 .footer-bar ul{
+    padding-inline-start: 0px;
+}
+
+.project-list{
     padding-inline-start: 0px;
 }
