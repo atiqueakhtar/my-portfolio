@@ -30,7 +30,7 @@ body{
 }
 
 .header{
-    padding: 3rem;
+    padding: 3rem 0rem 1rem 0rem;
 }
 .header img{
     display: block;
