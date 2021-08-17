@@ -65,12 +65,14 @@ body{
     color: white;
     border-radius: 0.5rem;
     text-decoration: none;
+    margin: 1rem 0.5rem 1rem 0rem;
 }
 .secondary-link{
     border: 1px solid var(--primary-color);
     padding: 0.5rem 1.5rem;
     border-radius: 0.5rem;
     text-decoration: none;
+    margin: 1rem 0.5rem 1rem 0rem;
 }
 
 .footer-bar{
