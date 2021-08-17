@@ -25,13 +25,16 @@ body{
     text-decoration: none;
     color: white;
 }
+.link-active{
+    font-weight: bold;
+}
 
 .header{
     padding: 3rem;
 }
 .header img{
     display: block;
-    max-width: 450px;
+    max-width: 35rem;
     margin: auto;
 }
 .header-heading{
