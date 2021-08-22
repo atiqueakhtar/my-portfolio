@@ -34,7 +34,7 @@ body{
 }
 .header img{
     display: block;
-    max-width: 30rem;
+    max-width: 45%;
     margin: auto;
 }
 .header-heading{
